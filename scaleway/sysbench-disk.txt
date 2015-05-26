@@ -1,0 +1,17 @@
+Operations performed:  188313 Read, 125542 Write, 401664 Other = 715519 Total
+Read 2.8734Gb  Written 1.9156Gb  Total transferred 4.789Gb  (16.347Mb/sec)
+ 1046.18 Requests/sec executed
+
+Test execution summary:
+    total time:                          300.0008s
+    total number of events:              313855
+    total time taken by event execution: 291.3518
+    per-request statistics:
+         min:                                  0.59ms
+         avg:                                  0.93ms
+         max:                                 41.39ms
+         approx.  95 percentile:               1.08ms
+
+Threads fairness:
+    events (avg/stddev):           313855.0000/0.00
+    execution time (avg/stddev):   291.3518/0.00

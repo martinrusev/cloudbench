@@ -1,0 +1,13 @@
+Test execution summary:
+    total time:                          42.4121s
+    total number of events:              10000
+    total time taken by event execution: 42.4079
+    per-request statistics:
+         min:                                  3.80ms
+         avg:                                  4.24ms
+         max:                                 17.91ms
+         approx.  95 percentile:               5.20ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   42.4079/0.00
